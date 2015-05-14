@@ -1,1 +1,1 @@
-# clicker
+# Just spam clicks
